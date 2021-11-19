@@ -1,0 +1,7 @@
+C:\Users\Mertoğlan\source\repos\SonDeprem\SonDeprem\bin\Debug\SonDeprem.exe.config
+C:\Users\Mertoğlan\source\repos\SonDeprem\SonDeprem\bin\Debug\SonDeprem.exe
+C:\Users\Mertoğlan\source\repos\SonDeprem\SonDeprem\bin\Debug\SonDeprem.pdb
+C:\Users\Mertoğlan\source\repos\SonDeprem\SonDeprem\obj\Debug\SonDeprem.csprojAssemblyReference.cache
+C:\Users\Mertoğlan\source\repos\SonDeprem\SonDeprem\obj\Debug\SonDeprem.csproj.CoreCompileInputs.cache
+C:\Users\Mertoğlan\source\repos\SonDeprem\SonDeprem\obj\Debug\SonDeprem.exe
+C:\Users\Mertoğlan\source\repos\SonDeprem\SonDeprem\obj\Debug\SonDeprem.pdb
