@@ -4,6 +4,9 @@ C# console application that pulls and displays earthquakes in Turkey from the we
 
   - Language: C#
 
+![console](https://user-images.githubusercontent.com/24900500/142516871-daf72c90-0670-4a9e-ae32-f45db2345453.png)
+
+
 # Installation
 
 - Run SonDeprem.sln
