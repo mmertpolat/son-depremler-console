@@ -12,6 +12,12 @@ C# console application that pulls and displays earthquakes in Turkey from the we
 - Run SonDeprem.sln
 - Debug the project.
 
+### Resource
+
+The application uses the URL below to access the latest earthquake data.
+
+- http://www.koeri.boun.edu.tr/scripts/lst4.asp
+
 ### Tech
 
 Application uses a number of modules to work properly:
